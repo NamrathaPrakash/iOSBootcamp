@@ -8,7 +8,7 @@
 import Foundation
 
 struct FactsEndPoint: APIEndPoint {
-    var path: String {"534195fc-6280-4a57-bfa9-88807a1e39c0"}
+    var path: String {"b63b0070-962e-425c-a822-83fd5e91b0b7"}
     var method: String {"GET"}
     var queryItems: [URLQueryItem]? = nil
     var headers: [String : String]? = nil
