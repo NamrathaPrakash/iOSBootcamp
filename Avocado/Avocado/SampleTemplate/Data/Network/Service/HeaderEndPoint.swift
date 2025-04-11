@@ -6,7 +6,7 @@
 import Foundation
 
 struct HeaderEndPoint: APIEndPoint {
-    var path: String {"577852fd-f59e-4ff5-aab8-21770a48b058"}
+    var path: String {"ce62a774-ae71-4fda-962e-ca195f849130"}
     var method: String {"GET"}
     var queryItems: [URLQueryItem]? = nil
     var headers: [String : String]? = nil
