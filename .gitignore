@@ -60,7 +60,3 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
-
-# OS X temporary files
-.DS_Store
-.Trashes
